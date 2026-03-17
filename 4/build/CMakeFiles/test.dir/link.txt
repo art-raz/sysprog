@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test.dir/thread_pool.cpp.o CMakeFiles/test.dir/test.cpp.o CMakeFiles/test.dir/home/razuvaev/Desktop/sysprog/utils/unit.cpp.o -o test  -lpthread 
