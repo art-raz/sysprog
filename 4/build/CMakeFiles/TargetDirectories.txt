@@ -1,3 +1,0 @@
-/home/razuvaev/Desktop/sysprog/4/build/CMakeFiles/test.dir
-/home/razuvaev/Desktop/sysprog/4/build/CMakeFiles/edit_cache.dir
-/home/razuvaev/Desktop/sysprog/4/build/CMakeFiles/rebuild_cache.dir
